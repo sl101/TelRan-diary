@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TelRan-diary/static/css/main.81ab2186.css",
+    "main.js": "/TelRan-diary/static/js/main.65522d35.js",
+    "index.html": "/TelRan-diary/index.html",
+    "main.81ab2186.css.map": "/TelRan-diary/static/css/main.81ab2186.css.map",
+    "main.65522d35.js.map": "/TelRan-diary/static/js/main.65522d35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81ab2186.css",
+    "static/js/main.65522d35.js"
+  ]
+}
