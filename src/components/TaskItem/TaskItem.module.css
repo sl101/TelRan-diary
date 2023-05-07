@@ -1,0 +1,26 @@
+.task_item {
+	position: relative;
+	padding: 4px 17px;
+	color: var(--color-white);
+}
+
+.task_content p {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	cursor: default;
+}
+
+.task_content p {
+	position: relative;
+	z-index: 20;
+	height: 47px;
+	line-height: 47px;
+}
+
+@media (max-width:760px) {
+	.task_item {
+		border-top-right-radius: 20px;
+		border-bottom-right-radius: 20px;
+	}
+}
